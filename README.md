@@ -5,7 +5,10 @@
 
 **XCOM Lite**는 팀 관리, 연구, 3D 전투 기능을 갖춘 턴제 전술 분대 게임입니다. 이 프로젝트는 고전적인 XCOM 시리즈에서 영감을 받아 핵심 게임플레이 메커니즘에 중점을 둔 간소화된 경험을 제공하는 것을 목표로 합니다. 플레이어는 분대를 관리하고, 새로운 기술을 연구하고, 장비를 제작하고, 외계인의 위협에 맞서 치열한 턴제 전투에서 유닛을 지휘합니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/xcom-lite/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. 공식 라이브 데모는 위 Pages URL입니다.
 
 ## 2. 주요 기능
 
